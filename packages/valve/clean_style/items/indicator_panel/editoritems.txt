@@ -1,4 +1,3 @@
-// The instances here are overridden by those defined in Textures -> Antlines.
 "Item"
 	{
 	"Type"		"ITEM_INDICATOR_PANEL"
@@ -21,10 +20,7 @@
 			{
 			"0"
 				{
-				"Name"				"instances/BEE2/indicator_check.vmf"
-				"EntityCount"		"9"
-				"BrushCount"		"2"
-				"BrushSideCount"	"12"
+				"Name"				"instances/BEE2/clean/indicator_panel.vmf"
 				}
 			}
 
@@ -62,10 +58,7 @@
 			{
 			"0"
 				{
-				"Name"				"instances/BEE2/indicator_timer.vmf"
-				"EntityCount"		"9"
-				"BrushCount"		"2"
-				"BrushSideCount"	"12"
+				"Name"				"instances/BEE2/clean/indicator_panel.vmf"
 				}
 			}
 
