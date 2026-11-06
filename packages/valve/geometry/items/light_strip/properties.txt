@@ -8,15 +8,13 @@
 		"" ""
 		"" "* The non-cool lights can be used to contrast or highlight areas."
 		"" "* Sphere-type is unused."
-		"" "* Franken-type is an Antline Router the size of a light strip. This is removed from the map but may conflict with other items in the editor."
 		}
-	"Ent_Count"	"Light Strip: 2\nAntline Router: 0"
+	"Ent_Count"	"Light Strip: 2"
 	"infoURL"	"https://developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker/Light_Strip"
 	"Icon"
 		{
 		"0" "clean/light_strip_cool.png"
 		"1" "clean/light_strip_warm.png"
 		"2" "clean/light_strip_cold.png"
-		"4" "logic/tspen/ant_router_strip.png"
 		}
 	}

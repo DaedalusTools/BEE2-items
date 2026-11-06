@@ -1944,7 +1944,6 @@
 						"" "* _In the 1950s era, lighting is warm by default._"
 						"" "* The non-warm lights can be used to contrast or highlight areas."
 						"" "* Sphere-type is unused."
-						"" "* Franken-type is an Antline Router the size of a light strip. This is removed from the map but may conflict with other items in the editor."
 						}
 					"Append"
 						{
@@ -1977,7 +1976,6 @@
 							"Icon"     "palette/50s/light_strip_cold.png"
 							"BEE2"     "50s/light_strip_cold.png"
 							}
-						// 3: Router, unstyled.
 						}
 					// Duplicates for backwards compatibility.
 					"Extra"
@@ -2018,7 +2016,6 @@
 						"" "* _In the 1960s era, lighting is warm by default._ They are also covered by protective grating."
 						"" "* The non-warm lights can be used to contrast or highlight areas."
 						"" "* Sphere-type is unused."
-						"" "* Franken-type is an Antline Router the size of a light strip. This is removed from the map but may conflict with other items in the editor."
 						}
 					"Append"
 						{
@@ -2076,7 +2073,6 @@
 						"" ""
 						"" "* The non-cool lights can be used to contrast or highlight areas."
 						"" "* Sphere-type is unused."
-						"" "* Franken-type is an Antline Router the size of a light strip. This is removed from the map but may conflict with other items in the editor."
 						}
 					"Palette"
 						{
@@ -2149,7 +2145,6 @@
 						"" ""
 						"" "* The non-cool lights can be used to contrast or highlight areas."
 						"" "* Sphere-type is unused."
-						"" "* Franken-type is an Antline Router the size of a light strip. This is removed from the map but may conflict with other items in the editor."
 						}
 					"Palette"
 						{

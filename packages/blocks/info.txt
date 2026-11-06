@@ -5,45 +5,6 @@
 
 "Item"
 	{
-	"ID"       "ITEM_BEE2_QUARTER_TILE"
-	"Unstyled" "1"
-	"Version"
-		{
-		"Styles"
-			{
-			"ANY"	"quarter_tile"
-			}
-		}
-	}
-
-"Item"
-	{
-	"ID"       "ITEM_128X64X64"
-	"Unstyled" "1"
-	"Version"
-		{
-		"Styles"
-			{
-			"ANY"	"partial_block"
-			}
-		}
-	}
-
-"Item"
-	{
-	"ID"       "ITEM_BEE2_QUART_WALL"
-	"Unstyled" "1"
-	"Version"
-		{
-		"Styles"
-			{
-			"ANY"	"wall"
-			}
-		}
-	}
-
-"Item"
-	{
 	"ID" "ITEM_BEE2_SMALL_WINDOW"
 	"Description" 
 		{
@@ -236,32 +197,6 @@
 		}
 	}
 	
-"Item"
-	{
-	"ID"       "ITEM_BEE2_PARTIAL_FLAT_BLOCK"
-	"Unstyled" "1"
-	"Version"
-		{
-		"Styles"
-			{
-			"ANY"	"partial_flat"
-			}
-		}
-	}
-
-"Item"
-	{
-	"ID"       "ITEM_BEE2_HALF_WALL"
-	"Unstyled" "1"
-	"Version"
-		{
-		"Styles"
-			{
-			"ANY"	"half_wall"
-			}
-		}
-	}
-
 "Item"
 	{
 	"ID" "ITEM_TSPEN_DITCH"

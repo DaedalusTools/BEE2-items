@@ -51,6 +51,9 @@
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
 					}
+				"bee2_timed_body" "instances/BEE2/clean/items/button/pedestal.vmf"
+				"bee2_one_shot_body" "instances/BEE2/clean/items/button/pedestal_inf.vmf"
+				"bee2_locking_body" "instances/BEE2/clean/items/button/pedestal_locking.vmf"
 				}
 
 			"TargetName"		"bt"

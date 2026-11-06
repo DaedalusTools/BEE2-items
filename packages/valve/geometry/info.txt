@@ -133,7 +133,6 @@
 		{
 		"ITEM_LIGHT_PANEL_WARM" "1"
 		"ITEM_LIGHT_PANEL_COLD" "2"
-		"ITEM_TSPEN_ANT_ROUTER_STRIP" "4"
 		}
 	"Version"
 		{
